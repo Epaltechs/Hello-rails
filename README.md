@@ -28,7 +28,7 @@ or alternatively you can copy and paste the commands in
 
 ## :handshake: Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Epaltechs/school-library/issues).
+- Feel free to check the [issues page](https://github.com/Epaltechs/Hello-rails/issues).
 
 
 ## Show your support
